@@ -199,7 +199,7 @@ const Home = (): JSX.Element => {
       <UserInputMain onSubmit={formSubmitEvent}>
         <Heading as="h1" size="xLarge" align="center" color={colors.primary}>
           <img width="64" src="/web-check.png" alt="Web Check Icon" />
-          Web Check
+          OSInt Pro
         </Heading>
         <Input
           id="user-input"
